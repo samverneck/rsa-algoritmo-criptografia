@@ -18,4 +18,4 @@ No RSA as chaves são geradas desta maneira:
 
 A chave pública: o par **(n,e)**.
 
-A chave privada: a tripla **(p,q,d)**. (De fato, para desencriptar, basta guardar **d** como chave privada, mas os primos **p** e * **q** são usados para acelerar os cálculos)
+A chave privada: a tripla **(p,q,d)**. (De fato, para desencriptar, basta guardar **d** como chave privada, mas os primos **p** e **q** são usados para acelerar os cálculos)
