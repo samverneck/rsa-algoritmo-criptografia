@@ -4,9 +4,9 @@ No RSA as chaves são geradas desta maneira:
 
 * 1 - Escolha de forma aleatória dois **números primos** grandes **p** e **q**, da ordem de **10^100** no mínimo.
 
-> Math.pow(10,100);
+> **Math.pow(10,100);**
 
-> 1.0000000000000002e+100
+> **1.0000000000000002e+100**
 
 * 2 - Compute  **n=pq**
 
